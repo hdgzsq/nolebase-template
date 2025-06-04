@@ -1,6 +1,6 @@
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import giscusTalk from 'vitepress-plugin-comment-with-giscus';
+import giscusTalk from 'https://github.com/hdgzsq/nolebase-template.git';
 import { useData, useRoute } from 'vitepress';
 import { toRefs } from "vue";
 import { h } from 'vue'
